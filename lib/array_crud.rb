@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  older siblings=["Mikyle", "Elijah", "Kelaiah", "Nehemiah"]
+  array=["Mikyle", "Elijah", "Kelaiah", "Nehemiah"]
 end
 
 def add_element_to_end_of_array(array, element)
